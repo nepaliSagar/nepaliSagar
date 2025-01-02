@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @nepaliSagar
-- 👀 I’m interested in Learning 
-- 🌱 I’m currently learning Front-End-Development (HTML, CSS and JavaScript)
+- 👋 Hi, I’m @Sagar Nepali, from Nepal.
+- 👀 I’m intereste in Programming and Design.
+- 🌱 I’m in learning era.
 - 💞️ I’m looking to collaborate very soon.
-- 📫 How to reach me, through instagram
-- 😄 Pronouns: don't care
-- ⚡ Fun fact: i love sleeping and living
+- 📫 How to reach me, through Instagram and Gmail.
+- 😄 Pronouns: I don't care.
+- ⚡ Fun fact: I love sleeping, taking care of my aquarium and living the life.
 
 <!---
 nepaliSagar/nepaliSagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
